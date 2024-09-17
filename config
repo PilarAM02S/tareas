@@ -5,6 +5,3 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-[remote "origin"]
-	url = https://github.com/PilarAM02S/tareas.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
